@@ -1,0 +1,4 @@
+New updates
+
+-  New engine for trading allowing users to open and close trades via api.
+-  API key based usage.
